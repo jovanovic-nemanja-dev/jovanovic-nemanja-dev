@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Nemanja Jovanović
 
-<!--
-**jovanovic-nemanja-dev/jovanovic-nemanja-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Android](https://img.shields.io/badge/Android-Expert-brightgreen?logo=android)
+![Kotlin](https://img.shields.io/badge/Kotlin-Compose-blueviolet?logo=kotlin)
+![Firebase](https://img.shields.io/badge/Firebase-Backend-orange?logo=firebase)
+![Git](https://img.shields.io/badge/Git-Version%20Control-informational?logo=git)
 
-Here are some ideas to get you started:
+🔭 I’m currently working on a **Stories App** – a modern reader with personalized recommendations, ad-based monetization, and offline mode  
+🌱 Exploring **AI-assisted features** in Android apps to boost user experience and reduce dev effort  
+💬 Ask me about **Jetpack Compose**, **Firebase integration**, **Gradle Kotlin DSL**, or **building clean Android architecture**  
+📫 Reach me at: [jovanovicnemanja.dev@gmail.com](mailto:jovanovicnemanja.dev@gmail.com)  
+🌐 LinkedIn: [linkedin.com/in/nemanja-jovanovic-b0535a126](https://www.linkedin.com/in/nemanja-jovanovic-b0535a126/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ Fun Fact:
+I use game night downtime to refactor code - XP is XP.
